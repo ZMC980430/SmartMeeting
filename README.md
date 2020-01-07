@@ -1,2 +1,2 @@
 # SmartMeeting
-Meeting Orgnization System
+Meeting Management System
